@@ -1,0 +1,25 @@
+.center{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    display: table;
+    margin-left: 0;
+    margin-right: auto;
+}
+.right{
+    display: table;
+    margin-left: auto;
+    margin-right: 0;
+}
+.col-2_4{
+    flex:0 0 auto;
+    width:20% !important;
+}
+.video-frame{
+    height: 800px;
+}
+.video-list{
+    height: 1000px;
+}
